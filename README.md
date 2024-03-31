@@ -3,4 +3,9 @@ This app is designed to empower users with a suite of natural language processin
 
 Whether you're analyzing sentiments, summarizing articles, or extracting answers from passages, our app provides intuitive and powerful functionality to meet your NLP needs.
 
+---
+
 # Results and App snapshots
+---
+![Alt text](intro1.png)
+![Alt text](intro2.png)
