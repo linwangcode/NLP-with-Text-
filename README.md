@@ -6,6 +6,16 @@ Whether you're analyzing sentiments, summarizing articles, or extracting answers
 ---
 
 # Results and App snapshots
----
+• App Usage Guidance
 ![Alt text](intro1.png)
 ![Alt text](intro2.png)
+
+• Expected Result with Example Text
+1. Answer Extraction
+![Alt text](function1.png)
+---
+2. Sentiment Analysis
+![Alt text](function2.png)
+---
+3. Text Summarization
+![Alt text](function3.png)
