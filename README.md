@@ -8,6 +8,7 @@ Whether you're analyzing sentiments, summarizing articles, or extracting answers
 # Results and App snapshots
 # • App Usage Guidance
 ![Alt text](intro1.png)
+---
 ![Alt text](intro2.png)
 
 # • Expected Result with Example Text
